@@ -1,0 +1,91 @@
+@font-face {
+	font-family: AlexBrush;
+	src: url("../fonts/AlexBrush.ttf") format("truetype");
+}
+
+img {
+       float: left;
+       /*padding: 10px; */
+         
+       margin-right: 10px;
+       margin-bottom: 10px;
+       
+
+       border-style: dotted solid black;
+       border-color: blue}
+
+
+img:hover{
+	width: 400px
+	;
+}
+head{
+	font-family: 'Poiret One', cursive;
+ font-size: 30px;
+ text-align: center
+}
+.mylinks{
+	color: #ffffe6;
+	
+}
+
+
+.floatRight{
+	float: right;
+}
+.floatLeft{
+	float:left;
+}
+.NoFloat{
+
+	clear: both;
+}
+
+.Firstletter{
+	font-family: AlexBrush;
+	font-size: 50px;
+	float: left;
+	margin-right: 15px;
+	/*float: left;*/
+}
+.transparent_background{
+	background:rgba(232,87,91,0.3);
+	padding: 5%;
+}
+
+p {
+ color: #000000;
+ /*font-family: 'Abel', sans-serif;*/
+ /*font-family: 'Indie Flower', cursive;*/
+ font-family: 'Poiret One', cursive;
+ font-size: 22px;}
+
+body {
+	
+      background-color: #B4D1D0;
+      background-image: url("../images/5.jpg");
+      background-size: cover; 
+      opacity: 1;}
+
+h1 {
+	
+	font-family: AlexBrush;
+	/*font-family: 'Indie Flower', cursive*/
+	font-size: 70px;
+	text-align: center;
+	
+	
+}
+h2 {
+	color: #000000;
+   font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+	text-align: center;
+	
+}
+
+
+
+.Bibliography {
+	font-size: 20px;
+}
